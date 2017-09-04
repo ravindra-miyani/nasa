@@ -2,7 +2,8 @@
 **Setup Development Environment**
           
    1. Install PhalconPHP Framework. (I choose PhalconPHP Framework because it is fastest framework built in C and deliver as an extension. PhalconPHP provides the lowest overhead for MVC-based applications)
-   2. Setup Nginx or alternative web server. I have used nginx as web server. following is the complete nginx configuration.
+   2. Execute nasa.sql file in your MySQL database.
+   3. Setup Nginx or alternative web server. I have used nginx as web server. following is the complete nginx configuration.
 >    server {
 >         listen   80;
 >      
