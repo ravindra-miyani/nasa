@@ -79,7 +79,7 @@ try{
         $databaseParams = array(
             'host'      => 'localhost',
             'username'  => 'root',
-            'password'  => 'Ravindra!6688',
+            'password'  => 'letsalign@123',
             'dbname'    => 'nasa',
             'charset'   => 'utf8'
         );
